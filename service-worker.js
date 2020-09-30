@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eletroposto-online/precache-manifest.4fcda610373309f14ee5b7566fb4152c.js"
+  "/eletroposto-online/precache-manifest.a9374b4265712ddfff3bcfeb21b2c9b1.js"
 );
 
 self.addEventListener('message', (event) => {
