@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0388908d894c76d1f379300ad5712918",
+    "revision": "87781aedf1064e2bc63529a1ecc4c1cd",
     "url": "/eletroposto-online/index.html"
   },
   {
-    "revision": "7f38bb67707b59664bfc",
+    "revision": "1852ad17fd1b4db58865",
     "url": "/eletroposto-online/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "29c77ec54d9428499776",
+    "revision": "d62d27d9c7b19fddebe0",
     "url": "/eletroposto-online/static/css/main.bf4bfdc5.chunk.css"
   },
   {
-    "revision": "7f38bb67707b59664bfc",
-    "url": "/eletroposto-online/static/js/2.b1581098.chunk.js"
+    "revision": "1852ad17fd1b4db58865",
+    "url": "/eletroposto-online/static/js/2.3a16910d.chunk.js"
   },
   {
     "revision": "17dffa516c2ca25cecdb67ecbc5e1c6e",
-    "url": "/eletroposto-online/static/js/2.b1581098.chunk.js.LICENSE.txt"
+    "url": "/eletroposto-online/static/js/2.3a16910d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29c77ec54d9428499776",
-    "url": "/eletroposto-online/static/js/main.362b52ce.chunk.js"
+    "revision": "d62d27d9c7b19fddebe0",
+    "url": "/eletroposto-online/static/js/main.cc1a6998.chunk.js"
   },
   {
     "revision": "460fd34da2f01a4758d0",
